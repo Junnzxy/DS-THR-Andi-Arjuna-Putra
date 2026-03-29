@@ -7,6 +7,7 @@ semua tugas di dalam sini tidak semua pure dari saya, hampir semua tugas ini di 
 
 Tugas ini berfokus pada penerapan dua struktur data dasar—Stack dan Queue—untuk menyelesaikan berbagai skenario pemrograman. Intinya, kita belajar memahami kapan harus menggunakan prinsip LIFO (Last In First Out) dan kapan harus memakai FIFO (First In First Out) agar alur data bisa dikelola dengan baik.
 
+
 **Apa yg tugas ini minta**
 
 Dalam tugas ini, soal meminta untuk:
@@ -14,6 +15,7 @@ Dalam tugas ini, soal meminta untuk:
 - Membuat implementasi Queue untuk mengatur antrean dan memproses data sesuai urutan kedatangan.
 - Menangani input yang kompleks dan dinamis dengan batasan tertentu.
 - Menghasilkan output yang sesuai, baik dari segi nilai maupun format (misalnya penggunaan tanda |, ->, atau spasi).
+
 
 **Gambaran Pengerjaan**
 
@@ -24,6 +26,7 @@ Pengerjaan dilakukan menggunakan bahasa pemrograman Java, dengan memanfaatkan Ja
 - Soal 4 (Card Pile): Menggunakan nested list of stacks. Program membaca data secara terbalik (LIFO), lalu menaruh kartu ke tumpukan berikutnya jika kartu yang sama sudah ada di tumpukan saat ini.
 - Soal 5 (Card Game): Simulasi permainan kartu. Setiap kartu yang dimainkan disimpan ke dalam Stack. Setelah permainan selesai, riwayat permainan ditampilkan dengan cara membongkar Stack satu per satu.
 
+
 **Cara Menjalankan Program**
 
 - Pastikan perangkat sudah terinstal JDK (Java Development Kit).
@@ -33,6 +36,7 @@ javac NamaFile.java
 - Jalankan program dengan:
 java NamaFile
 - Masukkan input sesuai format TestCase. Untuk soal dengan input panjang (seperti nomor 4 dan 5), tekan Enter dua kali agar output diproses.
+
 
 **Penjelasan Output**
 
